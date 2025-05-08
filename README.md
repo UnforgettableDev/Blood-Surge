@@ -1,7 +1,5 @@
 # Blood-Surge
 
-![Blood-Surge Logo](C:\Users\oskar.dahlbom\Downloads\Your paragraph text (1).png) <!-- Replace with your logo path -->
-
 ## Overview
 
 **Blood-Surge** is a movement-based shooter game prototype that immerses players in a fast-paced, action-packed experience. Heavily inspired by games like **ULTRAKILL**, **Karlson**, and **Trepang2**, Blood-Surge combines fluid movement mechanics with intense combat, all set within a gripping narrative.

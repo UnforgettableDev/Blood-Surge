@@ -1,6 +1,6 @@
 # Blood-Surge
 
-![Blood-Surge Logo](path/to/logo.png) <!-- Replace with your logo path -->
+![Blood-Surge Logo](C:\Users\oskar.dahlbom\Downloads\Your paragraph text (1).png) <!-- Replace with your logo path -->
 
 ## Overview
 
@@ -16,12 +16,3 @@ In Blood-Surge, you play as a "blood bender," a unique character with the abilit
 - **Engaging Combat System**: Utilize a variety of weapons and abilities to defeat enemies and overcome obstacles.
 - **Intriguing Narrative**: Unravel the story of betrayal and experimentation as you progress through the facility.
 - **Stylized Graphics**: Enjoy a visually striking art style that enhances the overall atmosphere of the game.
-
-## Getting Started
-
-To get started with Blood-Surge, follow these steps:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/blood-surge.git
-   cd blood-surge
